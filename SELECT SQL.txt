@@ -1,0 +1,5 @@
+select p.name as product, c.name as category from products as p
+left join product_category as pc
+on pc.product_id=p.id
+left join categories as c
+on pc.category_id=c.id
