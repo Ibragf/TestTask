@@ -22,8 +22,6 @@ namespace FiguresSquare.Figure
         }
 
         private readonly double[] sides;
-        private const double Accuracy = 0.0001;
-
         public Triangle(double a, double b, double c)
         {
             if (a < 0) throw new ArgumentOutOfRangeException(nameof(a));
