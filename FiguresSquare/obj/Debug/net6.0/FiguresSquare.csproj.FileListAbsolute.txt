@@ -1,0 +1,12 @@
+D:\GitDesktop\TestTask\FiguresSquare\bin\Debug\net6.0\FiguresSquare.deps.json
+D:\GitDesktop\TestTask\FiguresSquare\bin\Debug\net6.0\FiguresSquare.dll
+D:\GitDesktop\TestTask\FiguresSquare\bin\Debug\net6.0\FiguresSquare.pdb
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.csproj.AssemblyReference.cache
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.AssemblyInfoInputs.cache
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.AssemblyInfo.cs
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.csproj.CoreCompileInputs.cache
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.dll
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\refint\FiguresSquare.dll
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\FiguresSquare.pdb
+D:\GitDesktop\TestTask\FiguresSquare\obj\Debug\net6.0\ref\FiguresSquare.dll

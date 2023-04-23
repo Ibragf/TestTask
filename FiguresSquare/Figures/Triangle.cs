@@ -24,9 +24,9 @@ namespace FiguresSquare.Figure
         private readonly double[] sides;
         public Triangle(double a, double b, double c)
         {
-            if (a < 0) throw new ArgumentOutOfRangeException(nameof(a));
-            if (b < 0) throw new ArgumentOutOfRangeException(nameof(b));
-            if (c < 0) throw new ArgumentOutOfRangeException(nameof(c));
+            if (a <= 0) throw new ArgumentOutOfRangeException(nameof(a));
+            if (b <= 0) throw new ArgumentOutOfRangeException(nameof(b));
+            if (c <= 0) throw new ArgumentOutOfRangeException(nameof(c));
 
             if (a + b <= c || a + c <= b || c + b <= a)
                 throw new ArgumentOutOfRangeException(

@@ -11,7 +11,7 @@ namespace FiguresSquare.Figure
         public readonly double R;
         public Circle(double radius)
         {
-            if (radius < 0) throw new ArgumentOutOfRangeException(nameof(radius));
+            if (radius <= 0) throw new ArgumentOutOfRangeException(nameof(radius));
             R = radius;
         }
 

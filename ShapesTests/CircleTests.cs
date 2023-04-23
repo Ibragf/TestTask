@@ -17,7 +17,6 @@ namespace ShapesTests
 
         }
 
-        [TestCase(0, 0)]
         [TestCase(1, 3.141592653589793)]
         [TestCase(10, 314.1592653589793)]
         [TestCase(50, 7853.981633974483)]
@@ -52,6 +51,7 @@ namespace ShapesTests
         }
 
         [TestCase(-1)]
+        [TestCase(0)]
         [TestCase(-90000)]
         [TestCase(-1.111)]
         [TestCase(-0.00001)]

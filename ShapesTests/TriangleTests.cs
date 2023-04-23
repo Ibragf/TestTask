@@ -67,6 +67,7 @@ namespace ShapesTests
         [TestCase(2, 2, 4)]
         [TestCase(6.0001, 0.004, 7)]
         [TestCase(-1, -5, -6)]
+        [TestCase(0, 2, 3)]
         [TestCase(-7.101, 0.904, -7.6)]
         public void GIVEN_triangle_with_incorrect_sides_WHEN_GetSquare_is_invoked_THEN_exception_thrown(double a, double b, double c)
         {
